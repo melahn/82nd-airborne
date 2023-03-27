@@ -9,5 +9,3 @@ This is a work in progress. Scanning is completed for documents related to the c
 Scanning is underway for the campaigns in Sicily and Normandy (Operation Neptune). The are also some associated documents such as regimental and divisional newspapers that will be scanned.
 
 The documents are also stored in the Internet Archive.
-
-[Operation Market](./market/index.html)
