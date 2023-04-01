@@ -3,7 +3,7 @@
 This project contains historical documents related to the U.S. 82nd Airborne Division in World War II.
 
 To quote from one of the documents:
-> In the course of these operations tho 82nd Airborne Division became the first  
+> In the course of these operations tho 82nd Airborne Division became the first
 > American Airborne Division in action and the only Airborne Division to fight in
 > two Theaters of Operations (the North African or Mediterranean, and the European
 > Theatre). General Officers who served in the 82d Airborne Division became
