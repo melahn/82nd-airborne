@@ -21,6 +21,6 @@ Belgium (The Battle of the Bulge) as well as the final campaign
 in Central Europe concluding with the defeat and
 unconditional surrender of Germany.
 
-There are also some associated documents such as regimental and divisional newspapers that will be scanned.
+There are also some associated documents such as regimental and divisional newspapers that are in the process of being scanned.
 
 The documents are also stored in the Internet Archive.
